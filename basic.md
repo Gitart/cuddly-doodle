@@ -5,3 +5,5 @@ Service for work data in memory
 2. Find by ID
 3. Update by ID
 4. Delete by ID
+5. List all documnets by period
+
