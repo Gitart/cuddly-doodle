@@ -1,7 +1,7 @@
 
 # CUDDLY
 
-The main process in cloud
+**The main process in cloud**
 
 Process in to new futures  
 Processing
